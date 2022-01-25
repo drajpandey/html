@@ -1,0 +1,81 @@
+/***********************************HEADING BODY LIST********************************************/
+h3
+{
+color: green;
+font-weight: 400;
+
+}
+h1,h4
+{
+color: #0F2C67;
+width:500px;
+border:5px solid black;
+font-family: 'Inconsolata';
+font-style: normal;
+font-weight: 400;
+font-stretch: normal;
+}
+.gec{
+  color: Red;
+  width:800px;
+  border:5px solid black;
+  font-family: 'Inconsolata';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: normal;
+
+}
+
+li{
+  color: blue;
+}
+/*88888888888888888888888888888----GOOGLE FONT----8888888888888888888888888888*/
+body {
+  background-color: #D5D5D5;
+  font-family: 'Tangerine', serif;
+  font-size: 20px;
+  text-shadow: 4px 4px 4px #aaa;
+}
+.box {
+  margin: 30px;
+  width: 100px;
+  height: 100px;
+  background-color: rebeccapurple;
+  transform: rotate(0.5turn);
+}
+.practicle1
+{
+  background-color: #DADDFC;
+  font-family: 'Tangerine', serif;
+  font-size: 12px;
+  text-shadow: 4px 4px 4px #aaa;
+
+}
+.practicle2{
+  background-color: #AEFEFF;
+  font-family:  serif;
+  font-size: 12px;
+  text-shadow: 4px 4px 4px #aaa;
+}
+.practicle4{
+  background-color: #D3E4CD;
+
+  font-size: 12px;
+  text-shadow: 4px 4px 4px #aaa;
+}
+.base{
+  background-color:#FBFF00;
+}
+.back{
+  background-color:#FBFF00;
+
+}
+/***********************************HR********************************************/
+/*hr{
+  background-color: white;
+  border-style:none ;
+  border-top-style: dotted;
+  height: 2px;
+  width: 10%;
+
+}*/
